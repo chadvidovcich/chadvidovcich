@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, my name is Chad</h1>
 <h3 align="center">I'm a full-stack software engineer.</h3>
 
-- 👨‍💻 All of my projects are available at [https://chadvidovcich.netlify.com/](https://chadvidovcich.netlify.com/)
+- 👨‍💻 All of my projects are available [HERE](https://chadvidovcich.netlify.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
