@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, my name is Chad</h1>
-<h3 align="center">I'm a full-stack software engineer.</h3>
+<h3 align="center">I'm a full-stack software engineer and proud member of <a href=https://leonnoel.com/100devs/>#100Devs</a>.</h3>
 
-- 👨‍💻 All of my projects are available [HERE](https://chadvidovcich.netlify.com/)
+I’m always looking for opportunities to further my skill set and help build products that improve the world.
+<br>
+👨‍💻 All of my current projects are available [HERE](https://chadvidovcich.netlify.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,9 +16,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chadvidovcich&theme=dark" alt="chadvidovcich" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chadvidovcich&show_icons=true&locale=en&layout=compact" alt="chadvidovcich" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chadvidovcich&show_icons=true&locale=en&layout=compact" alt="chadvidovcich" /></p> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chadvidovcich&label=Profile%20views&color=0e75b6&style=flat" alt="chadvidovcich" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=chadvidovcich&label=Profile%20views&color=0e75b6&style=flat" alt="chadvidovcich" /> </p> -->
 
 
 
