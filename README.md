@@ -3,7 +3,7 @@
 
 I’m always looking for opportunities to further my skill set and help build products that improve the world.
 <br>
-👨‍💻 All of my current projects are available [HERE](https://chadvidovcich.com/)
+👨‍💻 All of my current links are available [HERE](https://www.chadstack.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
