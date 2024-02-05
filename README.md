@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, my name is Chad</h1>
-<h3 align="center">I'm a full-stack software engineer and proud member of <a href=https://leonnoel.com/100devs/>#100Devs</a>.</h3>
-
-I'm a developer and I ​specialize in web design.
+<h3 align="center">I'm a full-stack software engineer and I ​specialize in web design.</h3>
 <br>
 
 👨‍💻 Where can you find me online?
